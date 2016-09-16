@@ -1,0 +1,2 @@
+# progmath
+Programming in Mathematica
